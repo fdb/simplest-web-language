@@ -5,6 +5,7 @@
 }
 
 body {
+  font: 12px sans-serif;
   background-color: #345;
   padding: 10px;
   height: 100vh;
@@ -45,4 +46,12 @@ canvas {
   background: white;
   height: 100%;
   color: red;
+}
+
+#github {
+  background: white;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px;
 }
